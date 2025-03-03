@@ -62,12 +62,12 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/" element={<Hero />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/experience" element={<Experience />} />
-          <Route path="/tech" element={<Tech />} />
-          <Route path="/work" element={<Works />} />
-          <Route path="/feedbacks" element={<Feedbacks />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/About" element={<About />} />
+          <Route path="/Experience" element={<Experience />} />
+          <Route path="/Tech" element={<Tech />} />
+          <Route path="/Work" element={<Works />} />
+          <Route path="/Feedbacks" element={<Feedbacks />} />
+          <Route path="/Contact" element={<Contact />} />
         </Routes>
       </Layout>
     </Router>

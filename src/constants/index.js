@@ -26,7 +26,7 @@ import {
     {
       id: "about",
       title: "About",
-      url: "/about", // Update this to the actual route
+      url: "/About", // Update this to the actual route
     },
     {
       id: "news",
@@ -41,7 +41,7 @@ import {
     {
       id: "contact",
       title: "Contact",
-      url: "/contact", // Update this to the actual route
+      url: "/Contact", // Update this to the actual route
     },
   ];
   
